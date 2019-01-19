@@ -1,5 +1,5 @@
 <html>
-
+ 
 <head>   
     <title>Cory CS313 Portfolio</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
